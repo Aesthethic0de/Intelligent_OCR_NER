@@ -42,8 +42,8 @@ cv2.destroyAllWindows()
 
 ## Document Scanner
 
-![Before](scan_test\033.jpg)
+![Before](scan_test/033.jpg)
 
-![After](scanned_image.jpeg)
+![After](scanned_image.jpg)
 
 
