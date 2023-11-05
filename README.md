@@ -1,5 +1,4 @@
-# Intelligent_OCR_NER (Webapp Pending)
-
+# Intelligent_OCR_NER
 This is a Python script that extracts information from business cards using OCR and NER.
 
 ![Alt Text](result.gif)
