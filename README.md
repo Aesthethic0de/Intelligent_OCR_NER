@@ -38,6 +38,6 @@ cv2.destroyAllWindows()
 
 ![Before](242.jpeg)
 
-![After](output_image.jpeg)
+![After](output_image.jpg)
 
 
