@@ -34,20 +34,7 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 
 
-## Usage Example
 
-# Business Card Parser
-
-
-## Example
-
-**Before:**
-
-![Before](242.jpeg)
-
-**After:**
-
-![After](output_image.jpg)
-
+![Alt text](245.jpegk)
 
 
