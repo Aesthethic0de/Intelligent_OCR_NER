@@ -36,6 +36,6 @@ cv2.destroyAllWindows()
 
 
 
-![Alt text](242.jpegk)
+![Before](242.jpeg)
 
 
