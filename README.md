@@ -36,14 +36,14 @@ cv2.destroyAllWindows()
 
 ## Result
 
-![Before](242.jpeg)
+![Before](readme_images/242.jpeg)
 
-![After](output_image.jpg)
+![After](readme_images/output_image.jpg)
 
 ## Document Scanner
 
 ![Before](scan_test/033.jpg)
 
-![After](scanned_image.jpeg)
+![After](readme_images/scanned_image.jpeg)
 
 
