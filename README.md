@@ -34,8 +34,10 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 
-
+## Result
 
 ![Before](242.jpeg)
+
+![After](output_image.jpeg)
 
 
