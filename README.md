@@ -46,4 +46,6 @@ cv2.destroyAllWindows()
 
 ![After](readme_images/scanned_image.jpeg)
 
+![Alt Text](result.gif)
+
 
