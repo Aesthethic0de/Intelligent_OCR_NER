@@ -44,6 +44,6 @@ cv2.destroyAllWindows()
 
 ![Before](scan_test/033.jpg)
 
-![After](scanned_image.jpg)
+![After](scanned_image.jpeg)
 
 
