@@ -38,7 +38,6 @@ cv2.destroyAllWindows()
 
 # Business Card Parser
 
-...
 
 ## Example
 
@@ -50,5 +49,5 @@ cv2.destroyAllWindows()
 
 ![After](output_image.jpg)
 
-...
+
 
