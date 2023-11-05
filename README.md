@@ -1,4 +1,4 @@
-# Intelligent_OCR_NER
+# Intelligent_OCR_NER (Webapp Pending)
 
 This is a Python script that extracts information from business cards using OCR and NER.
 
@@ -32,22 +32,12 @@ cv2.namedWindow("Predictions", cv2.WINDOW_NORMAL)
 cv2.imshow("original", img_results)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+```
 
-
-## Usage Example
-
-# Business Card Parser
-
-
-## Example
-
-**Before:**
+## Result
 
 ![Before](242.jpeg)
 
-**After:**
-
 ![After](output_image.jpg)
-
 
 
