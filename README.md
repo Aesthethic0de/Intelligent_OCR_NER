@@ -23,7 +23,7 @@ This is a Python script that extracts information from business cards using OCR 
 
 ```python
 import cv2
-from business_card_parser import getPredictions
+from utils.predictions import getPredictions
 
 image = cv2.imread("input_image.jpg")
 img_results, entities = getPredictions(image)
