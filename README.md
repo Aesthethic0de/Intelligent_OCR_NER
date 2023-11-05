@@ -2,6 +2,9 @@
 
 This is a Python script that extracts information from business cards using OCR and NER.
 
+![Alt Text](result.gif)
+
+
 ## Dependencies
 
 - Python 3.x
@@ -46,6 +49,6 @@ cv2.destroyAllWindows()
 
 ![After](readme_images/scanned_image.jpeg)
 
-![Alt Text](result.gif)
+
 
 
